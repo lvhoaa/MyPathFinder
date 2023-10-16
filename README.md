@@ -2,6 +2,7 @@
 Using BFS Algorithm to find possible path from one point to another
 
 STEP 1: Enter begin node and finish node. Click Start Game! 
+
 ![image](https://github.com/lvhoaa/MyPathFinder/assets/87745938/bae7ce6d-c0fa-4f36-b8fa-cdfd744cf89d)
 The yellow block represents the begin node. The green block represents the finish node
 
