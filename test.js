@@ -1,4 +1,3 @@
-alert("INSTRUCTION:FIRST, YOU CHOOSE A START AND FINISH NUMBER FROM 1 TO 100. THEN, CLICK START GAME!. NOW YOU CAN CLICK ON THE MATRIX TO DRAW WALLS. FINALLY, CLICK LET'S GO!!")
 var wall="rgb(255, 0, 0)";//red
 var original="rgb(0, 0, 204)";
 var begin="rgb(0, 255, 0)";//yellow
