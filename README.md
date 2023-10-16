@@ -23,3 +23,5 @@ The red block represents walls.
 ### STEP 4: COMPLETE!
 
 ![image](https://github.com/lvhoaa/MyPathFinder/assets/87745938/dce4252f-e242-4f85-9558-c939b0b2e9aa)
+
+The pink line represents the path found
