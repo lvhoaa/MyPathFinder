@@ -1,6 +1,7 @@
 # MyPathFinder
 - Link: https://lvhoaa.github.io/MyPathFinder/
-Using BFS Algorithm to find possible path from one point to another
+
+MyPathFinder is a project using BFS algorithm to find possible path from one point to another. 
 
 #### STEP 1: Enter begin node and finish node. Click Start Game! 
 
