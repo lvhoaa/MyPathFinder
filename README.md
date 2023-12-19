@@ -3,6 +3,8 @@
 
 MyPathFinder is a project using BFS algorithm to find possible path from one point to another. This project uses a 10x10 matrix for illustration: blue blocks represent available blocks, red blocks represent unavailable blocks or walls, pink blocks represent the path found by the algorithm.
 
+
+## Guide
 #### STEP 1: Enter begin node and finish node. Click Start Game! 
 
 ![image](https://github.com/lvhoaa/MyPathFinder/assets/87745938/bae7ce6d-c0fa-4f36-b8fa-cdfd744cf89d)
